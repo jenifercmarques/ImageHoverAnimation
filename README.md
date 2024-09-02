@@ -1,10 +1,9 @@
-### 🚀 Image Hover Animation
+# 🚀 Image Hover Animation
 
 Este projeto demonstra animações de hover em imagens utilizando HTML e CSS. As animações são simples mas bonitas, trazendo uma ótima experiência para o usuário.
 
-# 🎥 Demonstração
-
-(https://github.com/jenifercmarques/ImageHoverAnimation/raw/main/imagehover.jpeg)
+## 🎥 Demonstração
+Bem vindo ao meu projeto! [clique aqui](https://jenifercmarques.github.io/ImageHoverAnimation/) para ser redirecionado para o site!
 
 ## 🎨 Características
 
