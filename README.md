@@ -20,7 +20,7 @@ Bem vindo ao meu projeto! [Clique aqui](https://jenifercmarques.github.io/ImageH
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/ImageHoverAnimation.git
+    git clone https://github.com/jenifercmarques/ImageHoverAnimation.git
     ```
 
 2. Navegue até o diretório do projeto:
